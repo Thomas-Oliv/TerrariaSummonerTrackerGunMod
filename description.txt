@@ -29,7 +29,7 @@ Future Updates
 
 - Better Sprites.
 
-You can contact me on discord (@Wah#9928) if you have any recommendations for balancing or new items.
+You can contact me on github if you have any recommendations for balancing or new items.
 
 Also contact me if you are interested in being commissioned to create better sprites for me :)
 

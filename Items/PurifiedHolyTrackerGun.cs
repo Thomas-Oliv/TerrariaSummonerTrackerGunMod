@@ -28,7 +28,6 @@ namespace SummonerTrackerGun.Items
 		}
 		public override void AddRecipes()
 		{
-
 			RecipeGroup group = new RecipeGroup(() => Lang.misc[37] + " Evil Holy Gun", new int[]
 			{
 				ModContent.ItemType<CursedHolyTrackerGun>(),
@@ -45,7 +44,5 @@ namespace SummonerTrackerGun.Items
 			recipe.AddTile(TileID.LihzahrdAltar);
 			recipe.Register();
 		}
-
-
 	}
 }
