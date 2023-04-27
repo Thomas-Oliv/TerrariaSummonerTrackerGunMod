@@ -9,7 +9,7 @@ namespace SummonerTrackerGun.Items
 {
 	public class PurifiedHolyTrackerGun : BaseTrackerGun
 	{
-		public override void SetCustomStaticDefaults()
+		public override void SetStaticDefaults()
 		{
 			DisplayName.SetDefault("Purified Holy Tracker Gun");
 			Tooltip.SetDefault("Erodes your targets defense with holy light");
